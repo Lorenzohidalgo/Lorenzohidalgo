@@ -1,7 +1,6 @@
 # Hi there, I'm Lorenzo 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoHidalgo&theme=github_dark&show_icons=true&count_private=true)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzoHidalgo&theme=github_dark)
 
 ## I've worked with:
 ### 💾 DataBases
