@@ -20,4 +20,4 @@ jobs:
           FORMAT: 'stacked'
           POST_COUNT: 10
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
